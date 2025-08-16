@@ -9,7 +9,7 @@ A d20 check is required when a PC chooses to take an action and:
 To perform a d20 check (*often simply referred to as 'a check'*):
 1. The DM determines what the [[101 D20 Mechanics#Target Number (TN)|target number]] (*TN*) for the check will be.
    *The DM does not necessarily need to reveal it at this stage*
-2. The DM and PC determine which [[101 D20 Mechanics#Proficiency Dice|proficiency die ]]to roll, based on factors such as the action chosen, desired outcome and the approach taken to manifest it.
+2. The DM and PC determine which [[101 D20 Mechanics#Proficiency Dice|proficiency die]] to roll, based on factors such as the action chosen, desired outcome and the approach taken to manifest it.
 3. The PC (*or any of their allies*) may spend their inspiration to grant themselves [[101 D20 Mechanics#Advantage & Disadvantage|advantage]] on the check (*they may spend more than one if desired*).
 4. Finally, the PC may activate powers, utilise equipment or trigger other effects that cause fundamental alterations to their check (*i.e. increasing the rank of their proficiency dice*).
 5. Once all steps are complete, the PC rolls the d20 along with their proficiency dice. They add the values shown on the dice together, and inform the DM of their total result.
@@ -76,7 +76,7 @@ $$
 It is not possible for both advantage and disadvantage to influence the same check, at the same time. On occasions where opposing effects are applied, they are 'cancelled out' (*on a one-for-one basis*), until only advantage or disadvantage remains, or neither.
 
 ## Critical Rolls
-When performing a check, if a PC rolls a 'natural' 20 (*the value on the d20 dice, before any modifiers are added*), they receive a critical boon. When this occurs, the PC gains one inspiration. 
+When performing a check, if a PC rolls a 'natural' 20 (*the value on the d20 dice, before any modifiers are added*), they receive a critical boon. When this occurs, the PC gains one [[103 Motivations#122 Inspiration|inspiration]]. 
 
 Rolling a 'natural' 1 is known as a critical bane. In these cases, the DM gains one despair.
 
@@ -86,7 +86,7 @@ Certain checks may also trigger additional beneficial effects if a critical boon
 
 NPCs disregard critical boons & banes, with the exception of critical hits.
 #### Critical Hit
-A special type of critical boon occurs during combat. When a PC (*or NPC*) make an attack that causes damage, rolling a 'natural' 20 is known as a critical hit.
+A special type of critical boon occurs during [[108 Combat#173 Making An Attack|combat]]. When a PC (*or NPC*) make an attack that causes damage, rolling a 'natural' 20 is known as a critical hit.
 
 When a PC achieves a critical hit, they may choose to forgo receiving inspiration, and instead, double the damage that would be dealt to their target from that attack.
 

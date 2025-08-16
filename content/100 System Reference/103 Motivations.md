@@ -1,14 +1,12 @@
-## 120 Motivations
----
-### 121 Call To Adventure
+## Call To Adventure
 Each PC begins with a personal quest, a unique mission that they may attempt to accomplish across multiple game sessions. The purpose of this quest is to demonstrate the reason why the PC set out on an adventurous path, rather than staying safe at home.
 
 The DM will work with the PC to develop their quest concept, including the duration and difficulty of their chosen mission, how frequently it may appear in the campaign plot (*if at all*) and most importantly, the factors necessary to consider the quest successfully completed.
 
 If a PC ultimately completes their personal quest, they receive a significant reward, and may choose to take on another.
-<br />
 
-### 122 Inspiration
+COMMUNITIES IN HERE OR SOCIALISING??????
+## Inspiration
 Inspiration represents moments of breakthrough, whether that be mental or physical.
 Each PC has the capability to earn and use inspiration during their adventures. 
 
@@ -31,8 +29,6 @@ All unspent inspiration is lost at the end of a session.
 
 > [!tip|noicon] Inspiration may also be used as an informal currency (*i.e. a PC may exchange inspiration to attempt a particularly ridiculous move, or garner intel for their current adventure*).
 
-<br />
-
 ### 123 Despair
 Despair is the opposite to inspiration. It represents the fear of an impending threat.
 Only the DM can earn and use despair.
@@ -51,8 +47,7 @@ A DM may spend despair to:
 
 There are no limits to the amount of despair a DM may use per round (*as with inspiration*).
 Equally, all unspent despair is also removed at the end of a session.
-<br />
-### 124 Virtues & Vices
+## Virtues & Vices
 Each PC has at least one virtue, and one vice. These are personality traits that a PC finds particularly difficult to resist doing. A virtue is a behavior the PC is proud of, and will often follow, even if it comes at personal cost to themselves. While a vice is often viewed as a negative quality, that usually leads to worse outcomes, which the PC should try to avoid.
 
 When a PC is confronted by situations which would trigger their virtue or vice, they may choose whether to align with them or not. with differing consequences:
